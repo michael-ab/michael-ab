@@ -1,5 +1,5 @@
 # Michael Aboulhair
-SW engineer
+R&D SW engineer
 
 ### Connect with me:
   [<img align="left" alt="Linkedin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/michael-aboulhair-a57732147/)
